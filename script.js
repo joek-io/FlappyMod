@@ -123,7 +123,7 @@ function renderGame(){
     var pass = 5
     if(score > pass)
     {
-      alert("Password");
+      alert("Your next clue is: HANOI");
     }
 }
 
