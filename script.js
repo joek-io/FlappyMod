@@ -120,7 +120,7 @@ function renderGame(){
     checkCollision();
     drawSpriteSheetImage(renderContext, bgLoc, 0, 0);
     renderToScale();
-    var pass = 5
+    var pass = 99
     if(score > pass)
     {
       alert("Your next clue is: HANOI");
